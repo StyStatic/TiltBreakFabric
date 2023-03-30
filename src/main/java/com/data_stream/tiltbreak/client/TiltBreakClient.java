@@ -8,6 +8,5 @@ public class TiltBreakClient implements ClientModInitializer {
      */
     @Override
     public void onInitializeClient() {
-
     }
 }
